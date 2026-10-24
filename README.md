@@ -1,4 +1,4 @@
-# DT001 — THUẬT TOÁN EUCLID VÀ ĐẾM VÒNG LẶP
+﻿# DT001 — THUẬT TOÁN EUCLID VÀ ĐẾM VÒNG LẶP
 
 ## 1. Thông tin sinh viên & Đề tài
 - **Họ và tên:** Huỳnh Nguyễn Tiến Anh

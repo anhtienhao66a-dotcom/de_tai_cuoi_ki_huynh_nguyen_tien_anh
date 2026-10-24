@@ -1,4 +1,4 @@
-# Danh mục và Kế hoạch 11 Ảnh Minh chứng (A01 – A11)
+﻿# Danh mục và Kế hoạch 11 Ảnh Minh chứng (A01 – A11)
 
 Đề tài: **DT001 - Thuật toán Euclid và đếm vòng lặp**  
 Sinh viên: **Huỳnh Nguyễn Tiến Anh** - MSSV: **N24DCDT001** - Lớp: **D24CQDT01-N**  
