@@ -83,7 +83,7 @@ git init
 git add .
 git commit -m "Commit C: Hoan thien thuat toan Euclid, demo va 14 ca test dat chuan"
 git branch -M main
-git remote add origin https://github.com/TEN_TAI_KHOAN_CUA_BAN/CTDL_DT001_N24DCDT001.git
+git remote add origin https://github.com/anhtienhao66a-dotcom/de_tai_cuoi_ki_huynh_nguyen_tien_anh.git
 git push -u origin main
 ```
 Lấy mã SHA commit C bằng lệnh:
@@ -95,7 +95,7 @@ git rev-parse HEAD
 ### Bước 2: Kiểm chứng clone sạch (để chụp ảnh A10)
 Mở một thư mục tạm khác (ví dụ `C:\ctdl\kiem_tra_clone\`) và chạy:
 ```powershell
-git clone https://github.com/TEN_TAI_KHOAN_CUA_BAN/CTDL_DT001_N24DCDT001.git .
+git clone https://github.com/anhtienhao66a-dotcom/de_tai_cuoi_ki_huynh_nguyen_tien_anh.git .
 python test/test_euclid.py
 ```
 *(Chụp màn hình thao tác này làm ảnh A10).*
